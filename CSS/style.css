@@ -44,8 +44,18 @@ body {
     background-color: #101010;
 }
 
+.content {
+    width: 800px;
+    margin: 10px auto;
+}
 
 .image_content {
-    width: 750px;
+    width: 700px;
+    margin: 10px auto 5px;
     border-radius: 30px;
+}
+
+.image_alig {
+    width: 300px;
+    float: left;
 }
