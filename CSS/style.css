@@ -6,10 +6,6 @@ body {
     font: normal 16px 'Roboto', sans-serif;
 }
 
-h1 {
-    color: rgb(238, 236, 233);
-}
-
 .navigation{
     float: right;
     height: 100%;
@@ -46,4 +42,10 @@ h1 {
     display: table;
     padding: 0px 20px;
     background-color: #101010;
+}
+
+
+.image_content {
+    width: 750px;
+    border-radius: 30px;
 }
