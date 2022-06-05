@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body {
+    background-color: #e0d9d9;
+    font: normal 16px 'Roboto', sans-serif;
+}
+
+h1 {
+    color: rgb(238, 236, 233);
+}
+
 .navigation{
     float: right;
     height: 100%;
